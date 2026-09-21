@@ -1,0 +1,2 @@
+﻿# Ignore runtime-generated output files (Excel, text dumps)
+outputs/
